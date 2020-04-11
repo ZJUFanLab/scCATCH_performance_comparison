@@ -1,0 +1,64 @@
+>Stem cell
+expressed: Lgr5
+references: 22999937
+
+>Vascular endothelial cell
+expressed: Tcim, 4931406P16Rik, Acer2, Acvrl1, Adam15, Adamts5, Adgrl2, Adgrl4, Amotl1, Apbb2, Aqp1, Arglu1, Arhgap31, Arhgef15, Arid5b, Atp13a3, AU021092, Bmpr2, Bvht, Calcrl, Cald1, Caskin2, Ccdc85b, Cd200, Cd24a, Cd300lg, Cd34, Cd38, Cd93, Cdc42ep2, Cdh5, Cdkn1a, Cldn15, Clec14a, Clec1a, Clec2d, Clic4, Cmtm8, Col15a1, Col4a1, Col4a2, Cracr2b, Crip2, Ctla2a, Cx3cl1, Cyp20a1, Cyyr1, Ddah2, Ddit4l, Dkk2, Dlc1, Dll4, Dock6, Dram1, Dusp3, Ece1, Ecscr, Ednrb, Efna1, Efnb2, Egfl7, Ehd3, Elk3, Emcn, Eng, Enho, Epas1, Ephb4, Esam, Eva1b, Exoc3l2, F2r, F8, Fabp4, Fam110a, Fam117b, Fam167b, Fas, Fgd5, Fkbp1a, Flt1, Galnt18, Gchfr, Gimap5, Gimap6, Gja4, Gng11, Gpihbp1, Grasp, Grrp1, Gstm1, Hecw2, Heg1, Hspb1, Hspg2, Hyal2, Icam2, Id1, Id3, Ifi44, Igfbp5, Impdh1, Itga6, Itpkb, Jam3, Jup, Kank3, Kctd12b, Kdr, Klf7, Ldb2, Lgals9, Lifr, Limch1, Lims2, Lmo2, Lrrc8a, Lrrc8c, Ltbp1, Ly6c1, Marcksl1, Meis2, Mgll, Mmrn2, Mxd4, Myct1, Myo1c, Nostrin, Notch1, Npdc1, Nrp1, Oaz2, Pbx1, Pcdh17, Pde2a, Pdgfb, Pecam1, Pi16, Plat, Plcb1, Plk2, Plpp1, Plpp3, Plscr1, Plscr2, Plscr4, Polr3gl, Prex2, Ptprb, Ptprg, Ramp2, Ramp3, Rapgef4, Raph1, Rasgrp3, Rasip1, Rbms1, Rdx, Rhob, Rhoc, Rhoj, Rsad2, S100a16, S1pr1, Sash1, Sema6a, Serpinh1, Sgk1, Sh3bp5, She, Slc43a3, Slc6a6, Slco2a1, Slfn5, Smad6, Sncg, Snrk, Sox17, Sox18, Sparcl1, Sptbn1, Stmn2, Sult1a1, Sypl, Tbx3, Tcf4, Tek, Tgfbr2, Thbd, Tie1, Timp3, Tinagl1, Tmbim1, Tmem204, Tmem26, Tmem88, Tnfaip1, Trim47, Tspan7, Unc45b, Ushbp1, Vdac3, Xiap, Zeb1, Rtl8a, Rflna, Inka1, Tlnrd1, Cavin3, Cavin2, Selenom, Cemip2
+references: 29622724
+
+>Podocyte
+expressed: 1110065P20Rik, 1810037I17Rik, 2810433D01Rik, Aamp, Abca2, Acpp, Actn4, Adcy1, Adm, Aebp1, Ak1, Angptl2, Anxa3, Aplp1, Araf, Arhgap28, Arhgef16, Arhgef17, Arhgef18, Arl2, Arl4d, Arvcf, B3galt2, Bcam, C1qtnf1, C1qtnf7, Cadm4, Calm2, Card10, Cd151, Cd2ap, Cd59a, Cd59b, Cd81, Cdc14a, Cdkn1c, Chst1, Cldn5, Clic3, Clic5, Cmtm7, Col1a2, Col4a3, Col4a4, Col4a5, Commd6, Coro2b, Cpq, Crb2, Creb3l2, Crtc1, Cryab, Ctnnal1, Ctsl, Cttnbp2, Daam2, Dach1, Dag1, Dcdc2a, Ddn, Degs1, Derl2, Dnase1l1, Dock5, Dpp4, Dpysl2, Efnb1, Ehd2, Eif3m, Emc2, Emc7, Eml2, Enpep, Ephx1, Fat1, Fgfbp1, Fgfr1, Fnbp1l, Fndc3b, Foxc1, Foxc2, Foxd1, Fxyd6, Fzd2, Gadd45a, Galnt10, Gas1, Ggt5, Ginm1, Glo1, Glod4, Gm266, Golim4, Gpc1, Gpx8, Gsn, Gsta4, H2-Q6, H2-Q7, Hist1h2bc, Hoxc6, Hoxc8, Hs3st6, Hspb8, Htra1, Igfbp7, Ildr2, Iqgap2, Itga3, Itgb1, Itgb5, Itm2b, Jtb, Kank1, Kcnq1ot1, Krcc1, Lage3, Lamb2, Laptm4a, Loxl2, Lpin2, Lrrc49, Lrrfip1, Mafb, Magi2, Man1a2, Manbal, Mapt, Marveld1, Mast4, Med24, Mertk, Metrnl, Mfge8, Mgat5, Micu1, Mmp23, Mob2, Mocs2, Mpp5, Mrc2, Mtss1, Mvp, Mxra7, Myl12a, Myl6, Mylk, Myo1d, Myo1e, Myof, Myom2, Myzap, Nab2, Nbl1, Nebl, Nenf, Nes, Npepl1, Nphs1, Nphs2, Npr1, Npr3, Nradd, Nsf, Ntrk3, Nupr1, Nxph3, Optn, Ormdl2, P3h2, Pak1, Pard3b, Parp4, Parva, Pbx2, Pcnp, Pcolce, Pde10a, Pde4b, Pdlim2, Pdpn, Pdrg1, Per1, Phactr4, Pkdcc, Plce1, Plekhg1, Plekhh2, Plod2, Plxdc2, Podxl, Pros1, Psmb5, Psmc3, Psmc5, Pth1r, Ptpn14, Ptprd, Ptpro, Pttg1ip, Pxdc1, R3hdml, Rab3b, Rabac1, Rarres1, Rasl11a, Rbpms, Rhpn1, Rilpl1, Robo2, Rps19bp1, Sbds, Sdc2, Sdc4, Sema3e, Sema3g, 11-Sep, Sgip1, Sh2d4a, Shisa3, Siva1, Slc31a2, Slc48a1, Smo, Snrnp27, Snx31, Sparc, Speg, Sqstm1, Srgap1, Ssbp2, St3gal3, St3gal6, St6galnac3, St6galnac6, Sulf1, Synpo, Tax1bp3, Tcf21, Tdrd5, Thsd7a, Timp2, Tjp1, Tmed9, Tmem108, Tmem109, Tmem150c, Tmem159, Tmem54, Tmod3, Tns2, Tomm20, Top1mt, Tpm1, Trib2, Tsc22d1, Tspan13, Tspan15, Tubb2b, Uaca, Unc50, Vasn, Vegfa, Wif1, Wipf3, Wsb2, Wt1, Yipf1, Zbtb7c, Zbtb8a, Zcrb1, Aopep, Ccn2, Ripor1, Cavin1, Elob
+references: 29622724
+
+>Proximal tubule cell
+expressed: 4833439L19Rik, 4931406C07Rik, Acaa1b, Acox1, Acox3, Acsm2, Acy3, Ak4, Akr1a1, Akr1c21, Akr7a5, Aldh6a1, Asl, Aspdh, Ass1, Bdh2, Calml4, Car14, Cat, Ccdc107, Cda, Cela1, Ces1d, Ces1f, Cndp2, Cyp2d26, Cyp2e1, Cyp2j5, D630029K05Rik, Defb29, Dnajc12, Dnase1, Eci3, Ephx2, Errfi1, Fah, Fbp1, Fmo2, Folr1, Fth1, Fut9, G6pc, Gcdh, Ghr, Glyat, Gm10804, Gpd1, Gpx1, Gstz1, Guca2b, Hao2, Hsd3b2, Hspe1, Hykk, Inmt, Kcnj15, Keg1, Khk, Lap3, Ldhd, Lrp2, Macrod2, Mep1a, Miox, Mpv17l, Nat8, Neu1, Nox4, Nudt19, Pck1, Pdzk1, Pecr, Pipox, Prodh, Prodh2, Prss8, Rab11fip3, Scp2, Slc13a3, Slc17a1, Slc17a3, Slc22a1, Slc22a12, Slc22a18, Slc22a28, Slc22a30, Slc22a6, Slc22a8, Slc27a2, Slc34a1, Slc37a4, Slc47a1, Slc4a4, Slc5a8, Slc6a18, Slc6a19, Slc6a20b, Slc7a13, Slc7a7, Slco1a6, Snhg11, Sord, Tcn2, Them7, Tmem106a, Tmem150a, Tmem174, Tnfaip8, Trim7, Ttc36, Ugt2b38, Ugt3a1, Ugt3a2, Upb1, Xylb, Mettl26, Nat8f1, Nat8f6, Rida
+references: 29622724
+
+>Distal convoluted tubule cell
+expressed: Abca13, Calb1, Cwh43, Emx1, Gm15848, Hoxb5os, Larp1b, Lhx1, Lhx1os, Oxct1, Papss1, Pgam2, Pvalb, Sgms2, Slc12a3, Slc16a7, Tfrc, Trpm6, Trpm7, Tsc22d2, Uroc1, Wnk1, Wnk4, Tmem52b, Clu
+references: 29622724, 29775597
+
+>Collecting duct principal cell
+expressed: Adgrg1, Apela, Aqp2, Aqp3, Avpr2, BC018473, Cav1, Cav2, Cdh16, Cdo1, Celsr2, Cldn4, Fxyd4, Fzd7, Gprc5b, Gstt1, Hes1, Hsd11b2, Ivns1abp, Kcne1, Kcnj1, L1cam, Myh10, Npnt, Nudt4, Olfm1, Pdzk1ip1, Peli2, Phactr1, Rnf186, Scnn1b, Scnn1g, Slc2a9, Stc1, Tacstd2, Tbck, Tmem178, Tmem229a, Tmem45b, Trpv5, Tspan8, Wfdc2, Plet1, Adh1, Aif1l, Akr1b3, Akr1c19, Aqp4, Arhgdib, Atp1b1, Btc, Cdkl1, Chpt1, Cryab, Ctsd, Cystm1, Edaradd, Ednrb, Elf5, Foxq1, Fstl1, Fxyd2, Gjb1, Gsta3, Hsd3b6, Id2, Id3, Igfbp7, Krt18, Krt7, Ldha, Lgals3, Malat1, Mgst3, Neat1, Ptger1, Ranbp3l, Rhcg, Scg5, Sgk1, Spink8, Tbx3, Tubb2a, Zfp36, Ifrd1, Cd24a
+references: 29622724, 28851704, 29775597
+
+>Collecting duct intercalated cell
+expressed: 9130008F23Rik, Atp6v0d2, Atp6v1g3, Car2, Chchd10, Cycs, Fam13a, Hmx2, Mif, Mme, Oxgr1, Slc25a4, Tbc1d24, Tmem61, Uqcrb, Acat1, Aco2, Aldh1l1, Aldoa, Aplp2, Aqp6, Atp12a, Atp1b1, Atp6ap1, Atp6ap2, Atp6v0a4, Atp6v0b, Atp6v0c, Atp6v0e, Atp6v1a, Atp6v1b1, Atp6v1c2, Atp6v1d, Atp6v1e1, Atp6v1h, Avpr1a, Car12, Ckmt1, Clcn5, Clcnkb, Cox6a1, Cox6b1, Cox7a2, Cpsf4l, Cyc1, Cystm1, Dab2, Defb1, Dkk3, Efhd1, Emb, Eps8, Foxi1, Fstl1, Gadd45g, Gm10053, Gm10221, Guca2a, Hepacam2, Hes1, Hexb, Hook3, Id2, Insrr, Itm2b, Itpr2, Kit, Ldhb, Lgals3, Mcoln3, Mdh1, Mkks, Ncoa7, Ndufv2, Ociad2, Pam, Parm1, Pde1a, Pgrmc1, Ppargc1a, Ppfibp2, Prdx5, Ralgapa2, Rcan2, Rgs2, Rhcg, Rnf152, S100a1, S100g, Scand1, Sdhd, Sec23b, Serpinb6b, Serpinb9, Sgk1, Slc25a5, Slc26a4, Slc4a9, Slc9a3r1, Sod2, Syn2, Tacc2, Tdrp, Tfcp2l1, Tinagl1, Tmbim4, Tmem117, Tmem213, Tubb2a, Uqcr11, Mindy1, Adgrf5, Atp5md
+references: 29622724, 28851704, 29775597
+
+>Collecting duct transient cell
+expressed: Aco2, Atp5a1, Car12, Cdc42bpb, Chd4, Clcnkb, Col18a1, Ctnnb1, Cttn, Ddx6, Enpp5, Gclc, Hepacam2, Insrr, Itgav, Laptm4b, Mprip, Ogdh, Parm1, Pip4k2c, Rhbg, Rpn1, Sdha, Sec23b, Slc26a4, Slc43a2, Smpd1, Sox4, St14, Syt7, Tmem117, Tmem50b
+references: 29622724
+
+>Fibroblast
+expressed: Abi3, Ace, Adgre4, Ap1s2, Arl5c, Ccdc88a, Ccr2, Cd209a, Cd300a, Cd300e, Chil3, Clec10a, Clec12a, Clec4a1, Clec4a3, Cytip, Ear2, Eno3, F13a1, Fam49a, Fam49b, Fgr, Filip1l, Flna, Fn1, G6pdx, Gm2a, Gngt2, Gpr141, Hck, Hfe, Ifi27l2a, Ifi30, Ifitm3, Irf7, Itgal, Lgals3, Lrp1, Lst1, Ly6i, Lyn, Lyz2, Mob1a, Mpeg1, Ms4a4c, Ms4a6c, Ms4a6d, Msn, Naaa, Nadk, Napsa, Nr4a1, Pip4k2a, Pitpna, Plac8, Plbd1, Prkcd, Psap, Psma7, Ptpn1, Ptpn6, Rap1a, S100a4, Samhd1, Sat1, Serpinb10, Sirpb1c, Stk10, Tgfb1, Tgfbi, Tkt, Tmcc1, Tnfrsf1b, Tppp3, Treml4, Ucp2, Mcub
+references: 29622724
+
+>Macrophage
+expressed: Abhd12, Adap2, Adap2os, Adgre1, Adrb1, Aif1, Apobec1, Apoe, Asah1, Axl, Basp1, Bcl2a1b, C1qa, C1qb, C1qc, C3ar1, Cadm1, Ccl12, Cd72, Cd74, Cd83, Cd86, Cdk6, Cfh, Clec4a2, Clec4b1, Col14a1, Creb5, Cst3, Ctsc, Ctsh, Cx3cr1, Cxcl16, Cyth4, Ebi3, Fcgr1, Fcgr2b, Fcgr3, Fcgr4, Fgd2, Fnbp1, Fyb, Gm4951, Gpr65, Gusb, H2-Aa, H2-Ab1, H2-DMa, H2-DMb1, H2-Eb1, Hpgds, Hspa1a, Ifnar1, Inpp5d, Itm2c, Lacc1, Lair1, Lat2, Lilra5, Lpar6, Ly86, Marcks, Mgl2, Mknk1, Mmp13, Mrc1, Ms4a7, Ntpcr, P2ry6, Parp14, Pea15a, Pf4, Pid1, Ppt1, Rab7b, Rbpj, Rgs10, Rtn4, Runx1, Scimp, Sdc3, Sft2d1, Slamf9, Slco2b1, Stab1, Stap1, Stx16, Taok3, Tgfbr1, Tmcc3, Tmem176b, Trf, Unc93b1, Vcam1, Vsir, Zeb2os, Zmynd15, Ifi213, Selenop, Ctss
+references: 29622724, 29775597
+
+>Neutrophil
+expressed: 1600010M07Rik, 2310001H17Rik, AA467197, Abtb1, Adam8, Adipor1, Alox5ap, Anxa1, Arg2, Asprv1, Bst1, Btg2, C5ar1, Card19, Ccl3, Ccl6, Ccl9, Ccr1, Ccrl2, Cd177, Cd300ld, Cd300lf, Cdk2ap2, Cfp, Chil1, Clec4d, Clec4e, Csf3r, Csrp3, Cxcl2, Cxcr2, Cyp4f18, Dgat1, Dhrs7, Dusp1, Eif4ebp1, F630028O10Rik, Fos, Fxyd5, G0s2, Gda, Gdpd3, Glipr2, Glrx, Gm5150, Gmfg, Grina, Gsr, H2-Q10, Hacd4, Hdc, Hp, Ier2, Ifitm1, Il17ra, Il1b, Il1f9, Il1r2, Junb, Lcn2, Lilr4b, Litaf, Lrg1, Ly6g, Map1lc3b, Mcemp1, Mcl1, Mmp8, Mmp9, Mrgpra2b, Mrpl33, Msrb1, Mxd1, Ncf1, Ngp, Oas3, Osm, Pgd, Pglyrp1, Pilra, Pilrb2, Plp2, Pnkp, Prr13, Ptgs2, Ptp4a1, Pygl, R3hdm4, Rara, Rassf3, Rdh12, Retnlg, Rgs2, Riok3, Rnf144a, S100a11, S100a6, S100a8, S100a9, Slc16a3, Slc7a11, Slfn1, Slfn4, Socs3, Sorl1, Srgn, Stfa2l1, Stk17b, Taldo1, Tpd52, Trem1, Trem3, Trim30b, Txn1, Tyrobp, Ube2b, Wfdc17, Wfdc21, Zfp36, Zyx, Rab5if, Jaml, Cstdc4, Elp1
+references: 29622724
+
+>B cell
+expressed: 4930523C07Rik, Bank1, Blnk, Btla, Cd19, Cd22, Cd37, Cd79a, Cd79b, Ckap4, Cmah, Creld2, Derl3, Dnajc3, Eaf2, Ebf1, Edem1, Edem2, Fchsd2, Fcmr, Fcrla, Fkbp11, Gm8369, H13, H2-DMb2, H2-Oa, H2-Ob, Hsp90b1, Hspa5, Hvcn1, Jchain, Krtcap2, Ly6d, Manf, Mef2c, Ms4a1, Mzb1, Pafah1b3, Pax5, Pold4, Pou2af1, Prdx4, Ptp4a3, Ralgps2, Rexo2, Scd1, Sdf2l1, Sec11c, Sec61a1, Sec61b, Serp1, Siglecg, Slpi, Smap2, Snx2, Spcs3, Spib, Srp9, Ssr4, Tnfrsf13b, Tnfrsf13c, Tnfrsf17, Trp53inp1, Txndc11, Txndc5, Vpreb3, Xbp1, Tent5c, Gm30211, Gm31243, Igkc
+references: 29622724, 29775597
+
+>T cell
+expressed: Bcl11b, Cxcr6, Fam189b, Gimap3, Gm10260, Il7r, Itk, Lef1, Ltb, Rapgef6, Rasgrp1, Rpl12, Rplp1, Rps16, Rps23, Rps4x, Satb1, Socs2, Tpt1, Tmsb10
+references: 29622724, 29775597
+
+>Natural killer cell
+expressed: Cap1, Ccl5, Ccnd2, Chsy1, Cma1, Cst7, Ctla2b, Ctsw, Dapk2, Dok2, Dusp2, Fasl, Gem, Gm19585, Gzma, Gzmb, Hsd11b1, Ifitm10, Il18rap, Irf8, Itgb2, Jak1, Klra1, Klra4, Klra7, Klra8, Klra9, Klrb1a, Klrb1b, Klrb1c, Klrb1f, Klrc1, Klrc2, Klrd1, Klre1, Klrk1, Lamb3, Lfng, Ncr1, Nkg7, Pole4, Prf1, Samd3, Tbx21, Txk, Ugcg, Vps37b
+references: 29622724
+
+>Cortical cell
+expressed: Alcam, Ank3, Aprt, Atp1b1, Cdca7, Chchd10, Dkk1, Etl4, Fibin, Id2, Lig1, Mcm5, Mest, Nasp, Nsg1, Pcna, Pcna-ps2, Ptn, S100g, Tfrc, Tsr1, Slf2
+references: 28851704
+
+>Medullary cell
+expressed: 6330403K07Rik, Acta2, Akap12, Alx1, Angpt1, Arl4a, Atp2b1, Basp1, Bgn, Bok, C430049B03Rik, Ccdc80, Ccnd2, Cd24a, Cdh11, Cdkn1c, Cfh, Ckb, Cldn11, Clmp, Cmtm3, Cnn2, Col14a1, Col15a1, Col16a1, Col1a1, Col1a2, Col23a1, Col3a1, Col4a1, Col4a2, Col5a1, Col6a1, Colec12, Cpq, Csrp1, Ctsl, Cux1, Cxcl12, Cxcl14, Cyba, Dclk1, Dcn, Dnajc5, Ece1, Edn3, Efemp2, Eid1, Enpep, Epha4, Fblim1, Fbln5, Filip1l, Flrt2, Fn1, Fstl1, Gas6, Glipr2, Gm1673, Gng2, Heph, Hoxa10, Hoxa11, Hoxa9, Hoxd10, Hoxd11, Hsp90b1, Htra3, Id4, Igfbp2, Igfbp4, Kdelr3, Klhl13, Lama2, Lbh, Ldb2, Lef1, Lgals1, Lhfpl2, Lmo4, Lox, Lrriq1, Lsp1, Ltbp1, Map1b, Meg3, Mfap4, Mfap5, Mgll, Mllt3, Mmp2, Mmp23, Myl9, Mylk, Nav3, Ncald, Ncam1, Negr1, Nexn, Nfat5, Nkain4, Nkd1, Nkd2, Nnat, Nrep, Ntm, Nts, Oaf, Ogfrl1, Ogn, Olfml3, Palld, Pam, Pcdhga9, Pcolce, Pdgfra, Penk, Pfn2, Pja1, Pla2g4a, Plcb1, Pmp22, Postn, Prom1, Prss23, Rab34, Rarb, Rarres2, Rcn3, Rhoj, Rrbp1, S100a10, Sct, Sdc2, Sdf4, Sema3a, Sema3c, Sema5a, Sfrp1, Smoc2, Sparc, Svil, Syn3, Tagln, Tanc1, Tbx3, Tcf21, Tead1, Tgfb1i1, Thbs1, Thbs2, Thsd4, Thy1, Timp3, Tmem47, Tmsb4x, Tmtc4, Tnc, Tpm1, Trps1, Tsc22d2, Tshz3, Wdr1, Wnt11, Wnt4, Wnt5a, Zeb2, Zfp503, Zswim6, Snhg18, Epb41l2, Rflnb, Cavin2, Selenos
+references: 28851704
+
